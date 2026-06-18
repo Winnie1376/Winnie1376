@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 动态打字效果 - 保留原有样式，更新内容 -->
-<!-- 动态打字效果 - 使用国内镜像 -->
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+I'm+Winnie;Bioinformatics+%7C+Data+Analysis;Single-cell+RNA-seq+%7C+Spatial+Omics;Welcome+to+my+GitHub" />
+</p>
 </a>
 
 <!-- 个性签名 -->
