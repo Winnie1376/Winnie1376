@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 动态打字效果 - 保留原有样式，更新内容 -->
+<!-- 动态打字效果 - 使用国内镜像 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=🌸+Hi,+I'm+Winnie+🌸;🧬+Bioinformatics+|+Data+Analysis;🔬+Single-cell+RNA-seq+|+Spatial+Omics;🌱+Welcome+to+my+GitHub" alt="Typing SVG" />
 </a>
 
 <!-- 个性签名 -->
-<p><i>🌺 探索生命奥秘，解码数据之美</i></p>
+<p><i>🌺Hello,World! </i></p>
 
 <!-- 社交/联系图标 -->
 <a href="https://github.com/Winnie1376">
@@ -39,10 +40,9 @@ Here are some ideas to get you started:
 ## 🧬 About Me
 
 - 🌸 Hi! I'm interested in bioinformatics, single-cell analysis, spatial transcriptomics, and data visualization.
-- 🎓 北京邮电大学(BUPT)大一学生
+- 🎓 A student of University of Chinese Academy of Sciences 
 - 🌱 Currently learning: single-cell multi-omics analysis
 - 🔬 Research interests: scRNA-seq, snATAC-seq and spatial transcriptomics
-- 📝 持续学习，记录足迹
 - 📫 Contact: wn343882@gmail.com
 
 ---
@@ -56,14 +56,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Seurat](https://img.shields.io/badge/Seurat-FF69B4?style=flat-square&logo=r&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-8A2BE2?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
@@ -76,11 +68,10 @@ Here are some ideas to get you started:
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| 🧬 [single-cell-analysis-pipeline](https://github.com/Winnie1376/single-cell-analysis-pipeline) | Single-cell RNA-seq analysis pipelines | R, Seurat, Scanpy |
+| 🧬 [single-cell-analysis-pipeline](https://github.com/Winnie1376/single-cell-analysis-pipeline) | Single-cell RNA-seq analysis pipelines | R, Seurat, ArchR |
 | 🧬 [spatial-transcriptomics-viz](https://github.com/Winnie1376/spatial-transcriptomics-viz) | Spatial transcriptomics visualization | Python, R, ggplot2 |
 | 🧬 [differential-expression-enrichment](https://github.com/Winnie1376/differential-expression-enrichment) | Differential expression and pathway enrichment | R, clusterProfiler |
 | 🧬 [reproducible-bioinformatics-workflows](https://github.com/Winnie1376/reproducible-bioinformatics-workflows) | Reproducible bioinformatics workflows | Nextflow, Docker |
-| 🤖 [academic-assistant-system](https://github.com/SMZXzbc/academic-assistant-system) | 多 Agent 协作智能学术助教系统 | Python, Multi-Agent |
 
 </div>
 
