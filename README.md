@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- 动态打字效果 - 保留原有样式，更新内容 -->
 <!-- 动态打字效果 - 使用国内镜像 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=🌸+Hi,+I'm+Winnie+🌸;🧬+Bioinformatics+|+Data+Analysis;🔬+Single-cell+RNA-seq+|+Spatial+Omics;🌱+Welcome+to+my+GitHub" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World" />
 </a>
 
 <!-- 个性签名 -->
@@ -133,11 +133,5 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer" />
 
 </div>
-
-<div align="center">
-
-🌸 Thanks for visiting my profile 🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=footer" />
 
 </div>
