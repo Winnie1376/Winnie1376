@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-🌸 Hi, I'm Your Name 🌸
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Bioinformatics+|+Data+Analysis;Single-cell+RNA-seq+|+Spatial+Omics;Welcome+to+my+GitHub+🌸" alt="Typing SVG" />
+🌸 Hi, I'm Winnie 🌸
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Bioinformatics+|+Data+Analysis;Single-cell+RNA-seq+|+Spatial+Omics;Welcome+to+my+GitHub" alt="Typing SVG" />
 
 </div>
 
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 Hi! I'm interested in bioinformatics, single-cell analysis, spatial transcriptomics, and data visualization.
 
 🌱 Currently learning: single-cell multi-omics analysis
-🔬 Research interests: scRNA-seq, spatial transcriptomics, cancer biology
-💻 Tools I use: R, Python, Linux, Seurat, Scanpy
-📫 Contact: your_email@example.com
+🔬 Research interests: scRNA-seq, snATAC-seq and spatial transcriptomics
+💻 Tools I use: R, Python, Linux, Seurat, ArchR
+📫 Contact: wn343882@gmail.com
 
 🌷 Skills
 <p align="center"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Seurat-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Scanpy-8A2BE2?style=for-the-badge" /> </p>
