@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Winnie1376&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=Winnie1376&theme=darkhub&no-frame=true&column=7](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord))](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 ---
