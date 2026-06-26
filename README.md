@@ -69,10 +69,9 @@ Here are some ideas to get you started:
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| 🧬 [single-cell-analysis-pipeline](https://github.com/Winnie1376/single-cell-analysis-pipeline) | Single-cell RNA-seq analysis pipelines | R, Seurat, ArchR |
-| 🧬 [spatial-transcriptomics-viz](https://github.com/Winnie1376/spatial-transcriptomics-viz) | Spatial transcriptomics visualization | Python, R, ggplot2 |
-| 🧬 [differential-expression-enrichment](https://github.com/Winnie1376/differential-expression-enrichment) | Differential expression and pathway enrichment | R, clusterProfiler |
-| 🧬 [reproducible-bioinformatics-workflows](https://github.com/Winnie1376/reproducible-bioinformatics-workflows) | Reproducible bioinformatics workflows | Nextflow, Docker |
+| 🧬 [snRAN_seq](https://github.com/Winnie1376/snRNAseq) | Spatial transcriptomics visualization | R, Seurat |
+| 🧬 [snATAC_ArchR](https://github.com/Winnie1376/snATAC-ArchR) | Differential expression and pathway enrichment | R, ArchR |
+| 🧬 [frog_deskpet](https://github.com/Winnie1376/frog_deskpet) | A cute deskpet for fun | python, java, html |
 
 </div>
 
